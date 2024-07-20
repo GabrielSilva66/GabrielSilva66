@@ -17,8 +17,8 @@
 
 <h4>My Skills</h4>
 <p>
-  <img align="center" alt="Gabriel-Cplusplus" height="30" width="40" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Gabriel-Cplusplus" height="30" width="60" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img align="center" alt="Gabriel-Java" height="30" width="60" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
 <hr>
