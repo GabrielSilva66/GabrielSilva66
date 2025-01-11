@@ -16,9 +16,25 @@
 
 <h4>⚙️ Tecnologias Usadas</h4>
 <p>
+  <!-- Linguagens de Programação -->
   <img align="center" alt="Gabriel-Cplusplus" height="30" width="60" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" alt="Gabriel-Java" height="30" width="60" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+
+
+  <!-- Frameworks -->
+  <img align="center" alt="Gabriel-Spring" height="30" width="60" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+
+  <!-- Banco de Dados -->
+  <img align="center" alt="Gabriel-PostgreSQL" height="30" width="60" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="Gabriel-MongoDB" height="30" width="60" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+
+
+  <!-- Outros -->
+  <img align="center" alt="Gabriel-Linux" height="30" width="60" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img align="center" alt="Gabriel-Git" height="30" width="60" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Gabriel-GitHub" height="30" width="60" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
+
 
 
 <h4>📫 Contato</h4>
