@@ -14,28 +14,19 @@
 
 <h4>⚙️ Tecnologias Usadas</h4>
 <p>
-  <!-- Linguagens de Programação -->
-  <img align="center" alt="Gabriel-Cplusplus" height="30" width="60" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="center" alt="Gabriel-Java" height="30" width="60" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Gabriel-Java" height="30" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Gabriel-Spring" height="30" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
-  <!-- Frameworks -->
-  <img align="center" alt="Gabriel-Spring" height="30" width="60" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-
-  <!-- Banco de Dados -->
-  <img align="center" alt="Gabriel-PostgreSQL" height="30" width="60" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="Gabriel-MongoDB" height="30" width="60" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-
-  <!-- Outros -->
-  <img align="center" alt="Gabriel-Linux" height="30" width="60" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img align="center" alt="Gabriel-Git" height="30" width="60" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="Gabriel-GitHub" height="30" width="60" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="Gabriel-SQL" height="30" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img align="center" alt="Gabriel-MongoDB" height="30" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img align="center" alt="Gabriel-Docker" height="30" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="Gabriel-Cplusplus" height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>
 
 <h4>📚 Estudando Atualmente</h4>
 <p>
-  <img align="center" alt="Gabriel-JavaScript" height="30" width="60" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Gabriel-HTML" height="30" width="60" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Gabriel-CSS" height="30" width="60" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Gabriel-Tailwind" height="30" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img align="center" alt="Gabriel-Figma" height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
 <h4>📫 Contato</h4>
@@ -49,6 +40,6 @@
 </p>
 
 <hr>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D5030&height=120&section=footer"/>
 
 </div>
