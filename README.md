@@ -3,17 +3,13 @@
   I am a <strong>Computer Science student at UFRN</strong> and a Fullstack Developer focused on building robust, production-ready APIs and resilient software architectures. My core work centers on scalable backend services using <strong>Java (Spring Boot)</strong>, backed by high-performance data systems and modern client interfaces (<strong>Next.js, Astro, React Native</strong>).
 </p>
 
-<h4>Languages</h4>
+<h4>Languages &amp; Backend</h4>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
-</p>
-
-<h4>Backend &amp; APIs</h4>
-<p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
