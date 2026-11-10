@@ -1,35 +1,45 @@
-<div style="background-color: #1e1e1e; color: #ffffff; padding: 20px;">
-
-<h3 align="left">Olá, eu sou Gabriel Victor 👋</h3>
-<p align="left">Sou estudante de Ciência da Computação e estou em busca de aprimorar meus conhecimentos na área de tecnologia ✨.</p>
-
-<div align="center">
-  <a href="https://github.com/GabrielSilva66">
-    <img src="https://github-readme-stats.vercel.app/api?username=GabrielSilva66&count_private=true&show_icons=true&theme=dracula" alt="Estatísticas do GitHub do Gabriel"/>
-  </a>
-  <a href="https://github.com/GabrielSilva66">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva66&show_icons=true&theme=dracula&layout=compact" alt="Linguagens Mais Usadas"/>
-  </a>
-</div>
-
-<h4>⚙️ Tecnologias Usadas</h4>
+<h3 align="left">Hi, I'm Gabriel Victor 👋</h3>
 <p>
-  <img align="center" alt="Gabriel-Java" height="30" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Gabriel-Spring" height="30" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-
-  <img align="center" alt="Gabriel-SQL" height="30" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img align="center" alt="Gabriel-MongoDB" height="30" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="Gabriel-Docker" height="30" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img align="center" alt="Gabriel-Cplusplus" height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="center" alt="Gabriel-JavaScript" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Gabriel-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  I am a <strong>Computer Science student at UFRN</strong> and a Fullstack Developer focused on building robust, production-ready APIs and resilient software architectures. My core work centers on scalable backend services using <strong>Java (Spring Boot)</strong>, backed by high-performance data systems and modern client interfaces (<strong>Next.js, Astro, React Native</strong>).
 </p>
 
-<h4>📚 Estudando Atualmente</h4>
+<h4>Languages</h4>
 <p>
-  <img align="center" alt="Gabriel-Figma" height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img align="center" alt="Gabriel-React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Gabriel-Angular" height="30" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+</p>
+
+<h4>Backend &amp; APIs</h4>
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+</p>
+
+<h4>Databases &amp; Caching</h4>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+<h4>Frontend &amp; Mobile</h4>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+<h4>DevOps &amp; Tooling</h4>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 <h4>📫 Contato</h4>
